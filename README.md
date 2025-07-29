@@ -1,2 +1,1 @@
-# bst209-final-project
-Machine Learning in Healthcare Final Project
+#MY BST209 Project
